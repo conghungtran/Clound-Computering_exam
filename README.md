@@ -1,13 +1,12 @@
 # Checklist bài kiểm tra giữa kì - Điện toán đám mây
 
 **Đề tài:** Quản lý Sách trên Cloud (Node.js/Express + Handlebars + MongoDB Atlas + Render)
-**Sinh viên:** Họ Tên Của Bạn | **MSSV:** 22IT123 | **Lớp:** 22SE2
+**Sinh viên:** Trần Công Hưng | **MSSV:** 22IT123 | **Lớp:** 22SE2
 **VAT áp dụng:** (3 + 5)% = **8%** | **Tiền tố mã sách:** `123`
 
 | Thông tin | Giá trị |
 |---|---|
-| Link ứng dụng (Render) | https://xxx.onrender.com |
-| Repo GitHub (Private) | https://github.com/ten-ban/book-cloud |
+| Repo GitHub (Private) | https://github.com/conghungtran/Clound-Computering_exam |
 | Database | `DB_22IT123` |
 
 > Ký hiệu: `[x]` đã hoàn thành và có ảnh minh chứng, `[ ]` chưa hoàn thành hoặc chưa có ảnh.
