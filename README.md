@@ -44,7 +44,7 @@
 ## 3. Quản lý mã nguồn và kiểm soát DevOps (1.5đ)
 
 - [x] `.gitignore` chặn `.env`, `node_modules/` và file rác; `.env` không có trong repo
-- [ ] 2 nhánh tính năng `feature/database` và `feature/session`, gộp về `main` bằng `--no-ff`
+- [x] 2 nhánh tính năng `feature/database` và `feature/session`, gộp về `main` bằng `--no-ff`
   - Ảnh cần bổ sung: kết quả `git log --graph --oneline --all` hiện 2 merge node
 
 ## 4. Triển khai hệ thống thực tế (1.5đ)
