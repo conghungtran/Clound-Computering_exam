@@ -1,5 +1,5 @@
 // ====== THÔNG TIN CÁ NHÂN HÓA: sửa 2 dòng dưới cho đúng của bạn ======
-const FULL_NAME = 'Họ Tên Của Bạn';
+const FULL_NAME = 'TRAN_CONG_HUNG';
 const MSSV = '22IT123';
 // ======================================================================
 
