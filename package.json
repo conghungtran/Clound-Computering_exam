@@ -1,0 +1,19 @@
+{
+  "name": "book-cloud",
+  "version": "1.0.0",
+  "description": "Quản lý Sách - Bài kiểm tra giữa kì Điện toán đám mây",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "git:setup": "node setup-git.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "connect-mongo": "^5.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "express-session": "^1.18.0",
+    "mongoose": "^8.5.0"
+  }
+}
